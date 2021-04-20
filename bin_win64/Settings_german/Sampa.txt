@@ -1,0 +1,32 @@
+@	@
+6	6
+a	a	a:	aI	aU
+b	b
+C	C
+d	d
+e	e
+E	E
+f	f
+g	g
+h	h
+i	i
+I	I
+j	j
+k	k
+l	l
+m	m
+n	n
+N	N
+o	o
+O	O
+p	p
+r	r
+s	s
+S	S
+t	t	ts
+u	u
+U	U
+v	v
+x	x
+Y	Y
+z	z

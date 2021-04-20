@@ -1,0 +1,29 @@
+@	@
+2	2
+9	9	9~
+a	a	a~
+b	b
+d	d
+e	e	e~
+E	E
+f	f
+H	H
+i	i
+j	j
+J	J
+k	k
+l	l
+m	m
+n	n
+o	o	o~
+O	O
+p	p
+R	R
+s	s
+S	S
+t	t
+u	u
+v	v
+w	w
+y	y
+Z	Z

@@ -1,0 +1,27 @@
+2	2	2:
+a	a	a:
+b	b
+d	d	d'
+E	E
+e	e	e:
+f	f
+g	g
+h	h
+i	i
+j	j
+J	J
+k	k
+l	l
+m	m
+n	n
+o	o	o:
+O	O
+p	p
+r	r
+s	s
+S	S
+t	t	t'	ts	tS
+u	u	u:
+v	v
+y	y
+z	z
